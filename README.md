@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [**This interesting project!**(https://github.com/Datman101/Remote-View)]
+- 🔭 I’m currently working on [**This project!**](https://github.com/Datman101/Remote-View)
 - 😄 Pronouns: They/them
 - 📫 How to reach me:
       Itch.io: https://datman101.itch.io
