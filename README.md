@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [![**This interesting project!**] (https://github.com/Datman101/Remote-View)]
+- 😄 Pronouns: They/them
+- 📫 How to reach me:
+      Itch.io: https://datman101.itch.io
+      Discord: Datman101#5103
+- 💬 Ask me about:
+      C++, Python, and Computer Vision!
+
 [![Datman 101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Datman101)](https://github.com/anuraghazra/github-readme-stats)
 
 
