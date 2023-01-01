@@ -4,7 +4,7 @@
 - 😄 Pronouns: They/them
 - 📫 How to reach me:
   * Itch.io: https://datman101.itch.io
-  * Discord: Datman101#5103
+  * Discord: Datqueen101#5103
 - 💬 Ask me about:
       C++, Python, and Computer Vision!
 
