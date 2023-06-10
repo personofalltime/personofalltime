@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [**This project!**](https://github.com/Datman101/Remote-View)
-- 😄 Pronouns: They/them
+- 😄 Pronouns: she/they
 - 📫 How to reach me:
   * Itch.io: https://datman101.itch.io
-  * Discord: Datqueen101#5103
+  * Discord: personofalltime#5103
 - 💬 Ask me about:
       C++, Python, and Computer Vision!
 
-[![Datman 101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Datman101)](https://github.com/anuraghazra/github-readme-stats)
+[[My GitHub stats](https://github-readme-stats.vercel.app/api?username=personofalltime)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
