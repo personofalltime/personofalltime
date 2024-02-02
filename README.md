@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [**This project!**](https://github.com/Datman101/Remote-View)
-- 😄 Pronouns: she/they
+- 😄 Pronouns: they/them
 - 📫 How to reach me:
   * Itch.io: https://datman101.itch.io
   * Discord: personofalltime#5103
